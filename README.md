@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Kanagaraj</h1>
 <h3 align="center">Software Developer</h3>
-<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"> Header </img>
+<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanagaraj3&label=Profile%20views&color=0e75b6&style=flat" alt="kanagaraj3" /> </p>
 
 - 🔭 I’m currently working on **Hospital Managaement Project**
@@ -12,7 +12,9 @@
 - 💬 Ask me about **Java,SQl,Frontend**
 
 - 📫 How to reach me **kanagarajkmk4@gmail.com**
-<img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" > Body </img>
+
+     
+<img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" > </img>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kanagaraj2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanagaraj2002" height="30" width="40" /></a>
