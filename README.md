@@ -1,26 +1,46 @@
-<h1 align="center">Hi 👋, I'm Kanagaraj</h1>
-<h3 align="center">A Passionate Software Developer</h3>
-<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding Gif" width="100%">
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=kanagaraj3&label=Profile%20views&color=0e75b6&style=flat" alt="kanagaraj3" /> 
+# Hi 👋, I'm Kanagaraj
+
+### A Passionate Software Developer
+
+![Coding Gif](https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanagaraj3&label=Profile%20views&color=0e75b6&style=flat" alt="kanagaraj3" />
 </p>
-🔭 Currently Working On
+
+🔭 **Currently Working On:**  
 Various Software Development Projects including web applications, backend systems, and databases.
-🌱 Currently Learning
-Continuously expanding my knowledge in web development, backend technologies, and cloud computing.
-💬 Ask Me About
+
+🌱 **Currently Learning:**  
+Expanding my knowledge in web development, backend technologies, and cloud computing.
+
+💬 **Ask Me About:**  
 Java, SQL, Frontend Development, Python, Flask, and more!
-📫 How to Reach Me
-Email: kanagarajkmk4@gmail.com
-🌟 Fun Fact
+
+📫 **How to Reach Me:**  
+Email: [kanagarajkmk4@gmail.com](mailto:kanagarajkmk4@gmail.com)  
+Phone: [+91 9360336691](tel:+919360336691)
+
+🌟 **Fun Fact:**  
 I love exploring new technologies and staying updated with industry trends!
-<h2 align="center">Connect with Me</h2>
+
+---
+
+## Connect with Me
+
 <p align="center">
   <a href="https://linkedin.com/in/kanagaraj2002" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://www.instagram.com/kanagaraj2002/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
-<h2 align="center">Languages and Tools</h2>
+
+---
+
+## Languages and Tools
+
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
@@ -62,13 +82,21 @@ I love exploring new technologies and staying updated with industry trends!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/> 
   </a>
 </p>
-<h2 align="center">GitHub Stats</h2>
+
+---
+
+## GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanagaraj3&show_icons=true&locale=en&layout=compact&theme=radical" alt="kanagaraj3 Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kanagaraj3&show_icons=true&locale=en&theme=radical" alt="kanagaraj3 GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanagaraj3&theme=radical" alt="kanagaraj3 Streak Stats" />
 </p>
+
+---
